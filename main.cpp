@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
+//alternate method is to use an array/ vector and use binary search to find the missing number
 int main() {
     int n, a=0, b=0 ,c=0;
     cin >> n;
